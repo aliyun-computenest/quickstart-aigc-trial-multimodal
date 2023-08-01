@@ -1,0 +1,1 @@
+# quickstart-aigc-trial-multimodal
